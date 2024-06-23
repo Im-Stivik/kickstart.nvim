@@ -43,6 +43,7 @@ What is Kickstart?
 
 Kickstart Guide:
 
+after the test
 
   TODO: The very first thing you should do is to run the command `:Tutor` in Neovim.
 
